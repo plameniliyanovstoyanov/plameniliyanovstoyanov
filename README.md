@@ -3,7 +3,7 @@
 ## About Me
 👋 Hi, I'm Plamen Stoyanov
 
-💻 Lead Front-End Developer specializing in modern JavaScript frameworks and TypeScript
+💻 Senior Front-End Developer specializing in modern JavaScript frameworks and TypeScript
 
 ## Tech Stack
 - Vue.js | React.js
