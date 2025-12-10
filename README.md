@@ -43,13 +43,7 @@ I enjoy building clean, fast and reliable UIs with **React / Next.js**, **Vue / 
 
 ## 📊 Stats and Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=plamenlilyanovstoyanov&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=plamenlilyanovstoyanov&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=plamenlilyanovstoyanov&show_icons=true&theme=tokyonight&hide_border=true" />
 
 ---
 
