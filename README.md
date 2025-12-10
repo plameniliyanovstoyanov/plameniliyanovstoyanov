@@ -41,14 +41,6 @@ I enjoy building clean, fast and reliable UIs with **React / Next.js**, **Vue / 
 
 ---
 
-## 🌱 Currently into
-
-- Refining frontend architectures for complex applications, focusing on state ownership, modularity, and long-term maintainability at scale
-- Experimenting with React Native and Expo for side projects involving real-time features like maps, notifications, and live data synchronization
-- Leveraging AI-assisted development tools to accelerate development, validate ideas, and improve overall DX
-
----
-
 ## 📊 Stats and Activity
 
 <p align="left">
@@ -59,16 +51,6 @@ I enjoy building clean, fast and reliable UIs with **React / Next.js**, **Vue / 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=plamenlilyanovstoyanov&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📌 Featured repositories
-
-<p align="left">
-  <a href="https://github.com/plamenlilyanovstoyanov/vue-admin-panel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=plamenlilyanovstoyanov&repo=vue-admin-panel&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/plamenlilyanovstoyanov/cozy-biz-storage-hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=plamenlilyanovstoyanov&repo=cozy-biz-storage-hub&theme=tokyonight" />
-  </a>
-</p>
 
 ---
 
