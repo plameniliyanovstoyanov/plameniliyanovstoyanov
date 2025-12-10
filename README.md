@@ -44,7 +44,7 @@ I enjoy building clean, fast and reliable UIs with **React / Next.js**, **Vue / 
 - 🧑‍🏫 Mentoring junior developers
 - 🧱 Modular front-end architecture
 - 🤝 Collaboration with back-end, product & stakeholders
-- 
+  
 ---
 
 ## 💼 What I work on
