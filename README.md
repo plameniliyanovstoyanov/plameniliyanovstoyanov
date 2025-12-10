@@ -9,36 +9,42 @@ I enjoy building clean, fast and reliable UIs with **React / Next.js**, **Vue / 
 
 > Main stack
 
-⚛️ React, Next.js
-🟢 Vue.js, Nuxt.js
-🟦 TypeScript, JavaScript (ES2020+)
-🧩 Redux Toolkit, Zustand, Pinia
-🎨 Tailwind CSS, SCSS, CSS Modules, Material UI, Bootstrap
-🌐 REST APIs, GraphQL, WebSockets
-🧠 LiquidJS (templating experience)
+- ⚛️ React, Next.js
+- 🟢 Vue.js, Nuxt.js
+- 🟦 TypeScript, JavaScript (ES2020+)
+- 🧩 Redux Toolkit, Zustand, Pinia
+- 🎨 Tailwind CSS, SCSS, CSS Modules, Material UI, Bootstrap
+- 🌐 REST APIs, GraphQL, WebSockets
+- 🧠 LiquidJS (templating experience)
 
 > Around the stack
 
 🧪 Testing & Quality
-✅ Jest, React Testing Library, Vitest
-📘 Storybook
+
+- ✅ Jest, React Testing Library, Vitest
+- 📘 Storybook
+- 
 ⚙️ Build & Tooling
-⚡ Vite, Webpack, Gulp
-📦 Axios, Apollo Client, TanStack Query
+- ⚡ Vite, Webpack, Gulp
+- 📦 Axios, Apollo Client, TanStack Query
+- 
 🗄️ Backend & Data (integration level)
-🛢️ MySQL, MongoDB, Firebase
-🔐 Authentication, role-based access, external API integrations
+- 🛢️ MySQL, MongoDB, Firebase, Superbase
+- 🔐 Authentication, role-based access, external API integrations
+
 ☁️ DevOps & Infrastructure
-🐳 Docker (basics), Kubernetes (basics)
-☁️ AWS, Azure
-🔁 CI/CD: GitHub, GitLab, Jenkins
+ - 🐳 Docker (basics), Kubernetes (basics)
+- ☁️ AWS, Azure
+- 🔁 CI/CD: GitHub, GitLab, Jenkins
+- 
 🗺️ Maps & Real-time
-🧭 Leaflet, GIS integrations
-📡 Real-time data layers & visualization
+- 🧭 Leaflet, GIS integrations
+- 📡 Real-time data layers & visualization
+
 👥 Process & Collaboration
-🧑‍🏫 Mentoring junior developers
-🧱 Modular front-end architecture
-🤝 Collaboration with back-end, product & stakeholders
+- 🧑‍🏫 Mentoring junior developers
+- 🧱 Modular front-end architecture
+- 🤝 Collaboration with back-end, product & stakeholders
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,vue,nuxt,redux,vite,webpack,nodejs,express,mongodb,firebase,docker,git,figma,photoshop,xd" />
