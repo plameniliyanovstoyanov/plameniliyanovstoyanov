@@ -48,9 +48,8 @@ I enjoy building clean, fast and reliable UIs with **React / Next.js**, **Vue / 
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=plamenlilyanovstoyanov&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=plamenlilyanovstoyanov&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ---
 
