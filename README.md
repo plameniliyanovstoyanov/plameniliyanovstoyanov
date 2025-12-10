@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Plamen Stoyanov
 
-Senior Front-End Developer specialising in modern JavaScript frameworks and TypeScript.  
 I enjoy building clean, fast and reliable UIs with **React / Next.js**, **Vue / Nuxt** and well-structured front-end architectures.
 
 ---
