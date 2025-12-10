@@ -31,7 +31,9 @@ I enjoy building clean, fast and reliable UIs with **React / Next.js**, **Vue / 
 
 ## 💼 What I work on
 
-- Building large-scale e-commerce and SaaS frontends with a strong focus on performance, scalability, and clean UX
+- Building and scaling complex frontend applications across fintech, sportsbook, casino,
+billing and utilities domains, with a strong focus on performance, reliability and
+long-term maintainability
 - Designing and maintaining modular front-end architectures that scale well with growing teams
 - Developing reusable UI component libraries and design systems shared across multiple projects
 - Working with real-time data (maps, live updates, dashboards, notifications) in data-intensive applications
@@ -39,20 +41,6 @@ I enjoy building clean, fast and reliable UIs with **React / Next.js**, **Vue / 
 - Improving developer experience (DX) through better tooling, code standards, linting, testing, and documentation
 - Leading and mentoring frontend developers, reviewing code, and helping teams make pragmatic technical decisions
 
----
-
-## 📊 Stats and Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=plamenlilyanovstoyanov&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=plamenlilyanovstoyanov&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top languages"
-  />
-</p>
 ---
 
 ## 📫 Contact
