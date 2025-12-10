@@ -23,6 +23,10 @@ I enjoy building clean, fast and reliable UIs with **React / Next.js**, **Vue / 
 - ☁️ Vite, Webpack, Turborepo / monorepos
 - 🧩 Design systems, reusable component libraries
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,vue,nuxt,redux,vite,webpack,nodejs,express,mongodb,firebase,docker,git,figma,photoshop,xd" />
+</p>
+
 ---
 
 ## 💼 What I work on
@@ -45,6 +49,16 @@ I enjoy building clean, fast and reliable UIs with **React / Next.js**, **Vue / 
 
 ---
 
+## 📊 Stats and Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=plamenlilyanovstoyanov&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=plamenlilyanovstoyanov&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 📌 Featured repositories
 
 <p align="left">
@@ -58,6 +72,8 @@ I enjoy building clean, fast and reliable UIs with **React / Next.js**, **Vue / 
 
 ---
 
-## 📊 GitHub activity
+## 📫 Contact
 
+- 💼 LinkedIn: https://www.linkedin.com/in/plamen-s-640b49164/
+- ✉️ Email: plamen_istoyanov@yahoo.com
 <p
