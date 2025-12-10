@@ -23,11 +23,11 @@ I enjoy building clean, fast and reliable UIs with **React / Next.js**, **Vue / 
 
 - ✅ Jest, React Testing Library, Vitest
 - 📘 Storybook
-- 
+  
 ⚙️ Build & Tooling
 - ⚡ Vite, Webpack, Gulp
 - 📦 Axios, Apollo Client, TanStack Query
-- 
+  
 🗄️ Backend & Data (integration level)
 - 🛢️ MySQL, MongoDB, Firebase, Superbase
 - 🔐 Authentication, role-based access, external API integrations
@@ -36,7 +36,7 @@ I enjoy building clean, fast and reliable UIs with **React / Next.js**, **Vue / 
  - 🐳 Docker (basics), Kubernetes (basics)
 - ☁️ AWS, Azure
 - 🔁 CI/CD: GitHub, GitLab, Jenkins
-- 
+  
 🗺️ Maps & Real-time
 - 🧭 Leaflet, GIS integrations
 - 📡 Real-time data layers & visualization
