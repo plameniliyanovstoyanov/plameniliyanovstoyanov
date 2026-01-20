@@ -8,8 +8,8 @@ I enjoy building clean, fast and reliable UIs with **React / Next.js**, **Vue / 
 
 > Main stack
 
-- ⚛️ React, Next.js
 - 🟢 Vue.js, Nuxt.js
+- ⚛️ React, Next.js 
 - 🟦 TypeScript, JavaScript (ES2020+)
 - 🧩 Redux Toolkit, Zustand, Pinia
 - 🎨 Tailwind CSS, SCSS, CSS Modules, Material UI, Bootstrap
